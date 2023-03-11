@@ -1,2 +1,4 @@
 # Dotfiles
-Dotfiles for i3
+Personal Dotfiles for my linux install.
+
+#WIP
